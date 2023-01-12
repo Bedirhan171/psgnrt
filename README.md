@@ -1,1 +1,1 @@
-###pyqt5 şifre oluşturucu
+### pyqt5 şifre oluşturucu
